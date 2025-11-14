@@ -16,4 +16,19 @@ The algorithms are implemented for the following graph:
 
 ## 📂 Repository Structure
 
+Search-Algorithms/
+│
+├── README.md
+├── LICENSE
+├── .gitignore
+│
+├── assets/
+│   └── graph.png
+│
+├── src/
+│   ├── bfs.py
+│   └── dfs.py
+│
+└── examples/
+    └── sample_output.txt
 
