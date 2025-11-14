@@ -33,4 +33,6 @@ graph={
 start='A'
 goal='E'
 
+print("Visited order:",end=" ")
 dfs(graph,start,goal)
+
