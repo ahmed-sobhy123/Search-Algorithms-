@@ -34,4 +34,6 @@ graph = {
 start = "A"
 goal = "E"
 
+print("Visited order:",end=" ")
 bfs(graph, start, goal)
+
