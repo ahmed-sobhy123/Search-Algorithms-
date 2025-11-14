@@ -34,6 +34,5 @@ Search-Algorithms/
 │   └── dfs/
 │        ├── dfs.py
 │        └── sample_output.txt
-       └── sample_output.txt
 
 ```
