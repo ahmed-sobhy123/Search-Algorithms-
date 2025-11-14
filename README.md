@@ -27,9 +27,13 @@ Search-Algorithms/
 │   └── graph.png
 │
 ├── src/
-│   ├── bfs.py
-│   └── dfs.py
-│
-└── examples/
-    └── sample_output.txt
+│   ├── bfs/
+│   │    ├── bfs.py
+│   │    └── sample_output.txt
+│   │
+│   └── dfs/
+│        ├── dfs.py
+│        └── sample_output.txt
+       └── sample_output.txt
+
 ```
