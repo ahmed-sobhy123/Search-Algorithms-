@@ -15,7 +15,7 @@ The algorithms are implemented for the following graph:
 ---
 
 ## 📂 Repository Structure
-
+'''
 Search-Algorithms/
 │
 ├── README.md
@@ -31,4 +31,4 @@ Search-Algorithms/
 │
 └── examples/
     └── sample_output.txt
-
+'''
