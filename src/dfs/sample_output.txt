@@ -1,0 +1,4 @@
+# DFS Algorithm Output
+
+Visited order: A => B => D => F => C => E
+The goal E is reached.
