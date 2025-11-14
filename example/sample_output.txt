@@ -1,7 +1,0 @@
-# BFS Algorithm Output
-Visited order: A => B => C => D => E
-The goal E is reached.
-
-# DFS Algorithm Output
-Visited order: A => B => D => F => C => E
-The goal E is reached.
